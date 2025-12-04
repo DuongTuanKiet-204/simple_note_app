@@ -48,22 +48,31 @@ Dự án này được phát triển theo yêu cầu bài tập thực hành Flu
 > 🔽 *Hãy thay 4 dòng “Chèn ảnh ở đây” bằng ảnh bạn chụp màn hình*
 
 **1️⃣ Màn hình danh sách ghi chú**
+
 ![screenshot1](screenshots/screen1.png)  
 
 ---
 
 **2️⃣ Màn hình tạo ghi chú**
+
 ![screenshot2](screenshots/screen2.png)  
 
 ---
 
 **3️⃣ Màn hình chỉnh sửa ghi chú**
+
 ![screenshot3](screenshots/screen3.png)  
 
+![screenshot3](screenshots/screen3.1.png)  
+
+![screenshot3](screenshots/screen3.2.png)  
+ 
 ---
 
 **4️⃣ Giao diện danh sách sau khi xóa ghi chú**
+
 ![screenshot4](screenshots/screen4.png)  
+
 ![screenshot4](screenshots/screen4.1.png)  
 
 ---
