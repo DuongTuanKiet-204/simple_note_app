@@ -45,7 +45,6 @@ Dự án này được phát triển theo yêu cầu bài tập thực hành Flu
 
 ## 📸 **Giao diện ứng dụng**
 
-> 🔽 *Hãy thay 4 dòng “Chèn ảnh ở đây” bằng ảnh bạn chụp màn hình*
 
 **1️⃣ Màn hình danh sách ghi chú**
 
