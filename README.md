@@ -76,13 +76,6 @@ Dự án này được phát triển theo yêu cầu bài tập thực hành Flu
 
 ---
 
-**Hướng dẫn chạy ứng dụng**
-1. Cài đặt dependencies:
-
-2. Chạy app:
-
----
-
 **Thông tin nộp bài**
 - Upload file `.zip` chứa thư mục **lib/**
 - Gửi link GitHub repository
